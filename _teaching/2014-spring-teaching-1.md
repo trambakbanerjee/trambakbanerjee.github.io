@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Kansas
+### University of Kansas
 <ol>
    <li>BSAN 450: Data Mining & Predictive Analytics (undergraduate) - Spring 2021 (scheduled).
      </li>
@@ -13,7 +13,7 @@ author_profile: true
    </li>
 </ol>
 
-## University of Southern California
+### University of Southern California
 
 <ol>
    <li><a href="https://classes.usc.edu/term-20182/course/buad-310/" target="_blank">BUAD 310g: Applied Business Statistics (undergraduate)</a> - Summer 2018.
