@@ -6,6 +6,19 @@ author_profile: true
 ---
 <ol>
  <li>
+     <a href="https://arxiv.org/pdf/1910.08997.pdf" target="_blank"><font size="3">A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family.</font></a><br>
+     <font size="3">Banerjee T, Liu Q, Mukherjee G and Sun W. <i>Journal of Machine Learning Research (2020) (to appear)</i></font><br/>
+ </li>
+ <li>
+     <a href="https://arxiv.org/abs/2003.02937"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
+     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Annals of Applied Statistics (2020) (to appear)</i></font><br/>
+ </li>
+ <li>
+     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
+     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> (2020) (under revision)</i></font><br>
+     <font size="3">R-package: <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">casp</a></font><br/>
+  </li> 
+ <li>
      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank"><font size="3">A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</font></a><br>
      <font size="3">Banerjee T, Mukherjee G, Dutta S and Ghosh P.</font>
      <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 530, Pages 538-554.</i></font>
