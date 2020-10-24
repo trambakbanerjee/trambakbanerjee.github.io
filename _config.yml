@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  softwares:
+    output: true
+    permalink: /:collection/:path/  
   portfolio:
     output: false
     permalink: /:collection/:path/
@@ -218,6 +221,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _softwares
+  - scope:
+      path: ""
+      type: softwares
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _publications
   - scope:
       path: ""
