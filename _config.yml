@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Trambak"
   avatar           : "profile.png"
-  bio              : "Assistant Professor - Business Analytics at the School of Business, University of Kansas"
-  location         : "Location"
+  bio              : "Assistant Professor at the <a href='https://business.ku.edu/'>School of Business, University of Kansas</a>"
+  location         : "Lawrence, KS"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
