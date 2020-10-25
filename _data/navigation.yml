@@ -17,9 +17,11 @@ main:
   
   - title: "Softwares"
     url: /softwares/
-    
-  - title: "CV"
-    url: /cv/
+  
+  - title: "Useful Links"
+    url: /links/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
