@@ -184,9 +184,6 @@ collections:
   softwares:
     output: true
     permalink: /:collection/:path/  
-   links:
-    output: true
-    permalink: /:collection/:path/    
   portfolio:
     output: false
     permalink: /:collection/:path/
