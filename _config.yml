@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trambak Banerjee"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Trambak Banerjee"
 description              : &description "personal description"
