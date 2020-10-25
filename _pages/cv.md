@@ -11,20 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D - Marshall School of Business, University of Southern California, Aug 2015 – May 2020.
+* M.S. - Mathematical Finance, University of Oxford, UK, 2013 – 2015.
+* M.S. - Statistics, Indian Statistical Institute, Kolkata, 2004 – 2006
+* B.S. - Statistics (Honors), St. Xavier’s College, University of Calcutta, 2001 – 2004.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Professor - Business Analytics, University of Kansas School of Business, Aug 2020 – present.
+ 
   
 
