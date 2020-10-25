@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [University of Kansas School of Business](https://business.ku.edu/){: target="_blank"}. I completed my PhD in Business Administration ([Statistics](http://faculty.marshall.usc.edu/gareth-james/StatGroup/){: target="_blank"}) from the [Marshall School of Business](https://www.marshall.usc.edu/){: target="_blank"} at the University of Southern California. My research involves the development of rigorous statistical methods for analyzing modern high dimensional data when issues such as unobserved heterogeneity and noise accumulation in these datasets impede inferences using standard methods. The following are my current research interests: 
+I am an Assistant Professor - [Business Analytics](https://business.ku.edu/people/academic-areas/analytics-information-systems-and-operations/business-analytics){: target="_blank"} at the [University of Kansas School of Business](https://business.ku.edu/){: target="_blank"}. I completed my PhD in Business Administration ([Statistics](http://faculty.marshall.usc.edu/gareth-james/StatGroup/){: target="_blank"}) from the [Marshall School of Business](https://www.marshall.usc.edu/){: target="_blank"} at the University of Southern California. My research involves the development of rigorous statistical methods for analyzing modern high dimensional data when issues such as unobserved heterogeneity and noise accumulation in these datasets impede inferences using standard methods. The following are my current research interests: 
 
 1. Shrinkage Estimation and Empirical Bayes Prediction,
 2. High Dimensional Penalized Likelihood Methods, and
