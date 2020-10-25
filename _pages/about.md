@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am an Assistant Professor at the [University of Kansas School of Business](htt
 2. High Dimensional Penalized Likelihood Methods, and
 3. Big Data applications in Health, Consumer Behavior and Marketing.
 
-I am interested in forging new collaborations at KU and explore research ideas that have a common interest. 
+I am interested in forging new collaborations at KU and exploring research ideas that have a common interest. 
 
 
 
