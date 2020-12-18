@@ -16,7 +16,7 @@ I am an Assistant Professor - [Business Analytics](https://business.ku.edu/peopl
 
 I am interested in forging new collaborations at KU and exploring research ideas that have a common interest. 
 
-<b>Announcement</b>: <em>I am hiring a Research Assistant (RA) for the spring semester. The RA will be responsible for developing several <b>R</b> packages and eventually publishing them on [CRAN](https://cran.r-project.org/). Publications in peer reviewed statistical software journals, such as the [JSS](https://www.jstatsoft.org/index), are a possibility too. The ideal candidate will be comfortable with <b>R</b> and shall have atleast some experience in using the <b>Rcpp</b> package. If you are interested and are excited about learning several modern Statistical techniques for data analysis through this experience, then feel free to drop me a line. </em>
+<font size="3" color="red"><b>Announcement</b></font>: <em>I am hiring a Research Assistant (RA) for the spring semester. The RA will be responsible for developing several <b>R</b> packages and eventually publishing them on [CRAN](https://cran.r-project.org/). Publications in peer reviewed statistical software journals, such as the [JSS](https://www.jstatsoft.org/index), are a possibility too. The ideal candidate will be comfortable with <b>R</b> and shall have atleast some experience in using the <b>Rcpp</b> package. If you are interested and are excited about learning several modern Statistical techniques for data analysis through this experience, then feel free to drop me a line. </em>
 
 
 
