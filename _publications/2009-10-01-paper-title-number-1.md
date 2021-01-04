@@ -10,12 +10,12 @@ author_profile: true
      <font size="3">Banerjee T, Liu Q, Mukherjee G and Sun W. <i>Journal of Machine Learning Research (2020) (to appear).</i></font><br/>
  </li>
  <li>
-     <a href="https://arxiv.org/abs/2003.02937"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
-     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Annals of Applied Statistics (2020) (to appear).</i></font><br/>
+     <a href="https://projecteuclid.org/euclid.aoas/1608346899"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
+     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Annals of Applied Statistics (2020), Volume 14, no. 4, Pages 1777-1805.</i></font><br/>
  </li>
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
-     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> (2020) (under revision).</i></font><br>
+     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> (2020) (under review).</i></font><br>
      <font size="3">R-package: <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">casp</a></font><br/>
   </li> 
  <li>
@@ -27,7 +27,7 @@ author_profile: true
 </li>
  <li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank"><font size="3">Adaptive Sparse Estimation with Side Information.</font></a><br>
       <font size="3">Banerjee T, Mukherjee G and Sun W.</font>
-      <font size="3"><i>Journal of the American Statistical Association (2019).</i></font><br>
+      <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 532, Pages 2053-2067.</i></font><br>
       <font size="3">R-package: <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">asus</a></font><br>
       <font size="3" color="red"><i>Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="red"><i> Runner-up: <a href="https://www.intindstat.org/iisaconference2017/index" target="_blank">2017 IISA annual conference </a><a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" target="_blank">student poster competition.</a></i></font><br/>
    </li>
