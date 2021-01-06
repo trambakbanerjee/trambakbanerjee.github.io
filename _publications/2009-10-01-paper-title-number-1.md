@@ -29,7 +29,7 @@ author_profile: true
       <font size="3">Banerjee T, Mukherjee G and Sun W.</font>
       <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 532, Pages 2053-2067.</i></font><br>
       <font size="3">R-package: <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">asus</a></font><br>
-      <font size="3" color="red"><i>Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="red"><i> Runner-up: <a href="https://www.intindstat.org/iisaconference2017/index" target="_blank">2017 IISA annual conference </a><a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" target="_blank">student poster competition.</a></i></font><br/>
+      <font size="3" color="red"><i>Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="red"><i> Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" target="_blank">2017 IISA annual conference student poster competition.</a></i></font><br/>
    </li>
  <li>
      <font size="3">Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
