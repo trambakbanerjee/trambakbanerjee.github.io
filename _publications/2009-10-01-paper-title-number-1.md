@@ -7,7 +7,7 @@ author_profile: true
 <ol>
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
-     <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(2021)(under review).</i></font><br/>
+     <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(2021) (under review).</i></font><br/>
  </li>
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
