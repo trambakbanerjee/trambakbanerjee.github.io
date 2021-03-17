@@ -12,7 +12,7 @@ author_profile: true
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
 Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Random Effects.</font></a><br>
-     <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta Shantanu and Che H. <i>(2021) (under review).</i></font><br/>
+     <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <i>(2021) (under review).</i></font><br/>
  </li>
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
