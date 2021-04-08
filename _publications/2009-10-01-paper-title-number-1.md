@@ -20,8 +20,8 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3">R-package: <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">casp</a></font><br/>
   </li>
  <li>
-     <a href="https://arxiv.org/pdf/1910.08997.pdf" target="_blank"><font size="3">A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family.</font></a><br>
-     <font size="3">Banerjee T, Liu Q, Mukherjee G and Sun W. <i>Journal of Machine Learning Research (2020) (to appear).</i></font><br/>
+     <a href="https://www.jmlr.org/papers/v22/19-873.html" target="_blank"><font size="3">A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family.</font></a><br>
+     <font size="3">Banerjee T, Liu Q, Mukherjee G and Sun W. <i>Journal of Machine Learning Research (2021) 22(67):1−46.</i></font><br/>
  </li>
  <li>
      <a href="https://projecteuclid.org/euclid.aoas/1608346899"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
