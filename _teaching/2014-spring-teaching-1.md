@@ -7,9 +7,9 @@ author_profile: true
 
 ### University of Kansas
 <ol>
-   <li>BSAN 450: Data Mining & Predictive Analytics (undergraduate) - Spring 2021 (scheduled).
+   <li>BSAN 450: Data Mining & Predictive Analytics (undergraduate) - Spring 2021.
      </li>
-   <li>BSAN 730: Large Scale Data Analysis (graduate) - Spring 2021 (scheduled). 
+   <li>BSAN 730: Large Scale Data Analysis (graduate) - Spring 2021. 
    </li>
 </ol>
 
