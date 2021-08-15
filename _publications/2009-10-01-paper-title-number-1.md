@@ -15,8 +15,8 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <i>(2021) (under review).</i></font><br/>
  </li>
  <li>
-     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
-     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> Journal of Machine Learning Research (2021) (forthcoming).</i></font><br>
+     <a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank"><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></a><br>
+     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> Journal of Machine Learning Research (2021) 22(180):1−40.</i></font><br>
      <font size="3">R-package: <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">casp</a></font><br/>
   </li>
  <li>
