@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ol>
  <li>
-     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
+     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under review).</i></font><br/>
  </li>
  <li>
