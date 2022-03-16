@@ -14,4 +14,4 @@ I am an Assistant Professor of [Analytics, Information and Operations Management
 2. Estimation and Prediction in Multivariate Mixed Models, and
 3. Statistical applications in Health, Consumer Behavior and Marketing.
 
-I am interested in forging new collaborations at KU and exploring research ideas that have a common interest. 
+
