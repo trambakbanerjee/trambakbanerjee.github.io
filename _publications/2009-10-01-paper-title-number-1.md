@@ -4,7 +4,8 @@ title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
-<ol reversed>
+<h3>Working papers</h3>
+<ol>
 <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
 Mixed Models.</font></a><br>
@@ -19,6 +20,9 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under revision).</i></font><br/>
  </li>
+  </ol>
+  <h3>Publications</h3>
+  <ol reversed>
  <li>
      <a href="https://arxiv.org/abs/2108.00951" target="_blank"><font size="3">Rethinking gradient sparsification as total error minimization.</font></a><br>
      <font size="3">Atal Narayan Sahu, Aritra Dutta, Ahmed M. Abdelmoniem, Trambak Banerjee, Marco Canini and Panos Kalnis.<i> NeurIPS (2021).</i></font><br>
