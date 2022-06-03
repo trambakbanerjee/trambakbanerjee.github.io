@@ -35,6 +35,7 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
  <li>
      <a href="https://projecteuclid.org/euclid.aoas/1608346899"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
      <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Annals of Applied Statistics (2020), Volume 14, no. 4, Pages 1777-1805.</i></font><br/>
+     <font size="3">R-package: <a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">truh</a></font><br>
  </li>
  <li>
      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank"><font size="3">A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</font></a><br>
