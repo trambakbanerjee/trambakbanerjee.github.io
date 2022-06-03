@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Research"
-excerpt: "Publications and Preprints"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Working papers</h2>
-<ol>
+<ol reversed>
+<li>
+     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
+Mixed Models.</font></a><br>
+     <font size="3">Banerjee T and Sharma P. <i>(under review).</i></font><br/>     
+</li>
 <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
 Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Random Effects.</font></a><br>
@@ -16,9 +19,6 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under revision).</i></font><br/>
  </li>
- </ol>
- <h2>Publications</h2>
- <ol reversed>
  <li>
      <a href="https://arxiv.org/abs/2108.00951" target="_blank"><font size="3">Rethinking gradient sparsification as total error minimization.</font></a><br>
      <font size="3">Atal Narayan Sahu, Aritra Dutta, Ahmed M. Abdelmoniem, Trambak Banerjee, Marco Canini and Panos Kalnis.<i> NeurIPS (2021).</i></font><br>
