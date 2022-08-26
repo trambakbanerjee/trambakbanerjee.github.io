@@ -13,7 +13,7 @@ author_profile: true
 <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
 Mixed Models.</font></a><br>
-     <font size="3">Banerjee T and Sharma P. <i>(under review).</i></font><br/>     
+     <font size="3">Banerjee T and Sharma P. <i>(under revision).</i></font><br/>     
 </li>
 <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
