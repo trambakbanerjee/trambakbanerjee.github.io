@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "Softwares"
+  - title: "Software"
     url: /softwares/
   
   - title: "Useful Links"
