@@ -25,7 +25,7 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under review).</i></font><br/>
  </li>
      <li>
-     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
+     <a href="https://www.dropbox.com/s/f14wj8zo2dt7kyr/BEC_test_banerjee2022.pdf?dl=0" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
      <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>(under review).</i></font><br/>
  </li>
   </ol>
