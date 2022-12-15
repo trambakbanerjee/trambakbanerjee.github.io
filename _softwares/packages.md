@@ -5,7 +5,7 @@ permalink: /softwares/
 author_profile: true
 ---
 <ol>
-   <li><a href="https://CRAN.R-project.org/package=asus" target="_blank">asus</a> - An R package that implements the <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank">ASUS</a> (Adpative SURE thresholding with Side Information) procedure for estimating a high-dimensional sparse parameter when along with the primary data we can also gather side information from secondary data sources.<br/>
+   <li><a href="https://CRAN.R-project.org/package=asus" target="_blank">asus</a> - An R package that implements the <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank">ASUS</a> (Adpative SURE thresholding with Side Information) procedure for estimating a high-dimensional sparse parameter when along with the primary data we can also gather side information from secondary data sources. Please note that this package is being updated and is not available from CRAN at this moment.<br/>
    </li>
    <li><a href= "https://CRAN.R-project.org/package=fusionclust" target="_blank">fusionclust</a> - An R package for clustering and feature screening in large scale problems. In particular, fusionclust provides the <a href= "http://onlinelibrary.wiley.com/doi/10.1111/rssb.12226/abstract" target="_blank">Big Merge Tracker (BMT)</a> and <a href="http://www.sciencedirect.com/science/article/pii/S0047259X17300271" target="_blank">COSCI</a> algorithms for convex clustering and feature screening using an ?1 fusion penalty.<br/>
    </li>
