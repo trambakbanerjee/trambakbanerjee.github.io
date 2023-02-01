@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h3>Working papers</h3>
 <ol>
+ <li>
+     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
+     <font size="3">Banerjee T and Gang B. <i>(under review).</i></font><br/>     
+</li>
 <li>
      <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
      <font size="3">Sharma P and Banerjee T. <i>(under review).</i></font><br/>     
