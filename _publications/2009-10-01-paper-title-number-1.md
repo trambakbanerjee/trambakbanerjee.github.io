@@ -8,7 +8,7 @@ author_profile: true
 <ol>
  <li>
      <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
-     <font size="3">Banerjee T and Gang B. <i>(under review).</i></font><br/>     
+     <font size="3">Gang B and Banerjee T. <i>(under review).</i></font><br/>     
 </li>
 <li>
      <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
@@ -21,7 +21,7 @@ Mixed Models.</font></a><br>
 </li>
  <li>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
-     <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under review).</i></font><br/>
+     <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under revision).</i></font><br/>
  </li>
      <li>
      <a href="https://www.dropbox.com/s/f14wj8zo2dt7kyr/BEC_test_banerjee2022.pdf?dl=0" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
