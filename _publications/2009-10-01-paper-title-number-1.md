@@ -28,7 +28,10 @@ Mixed Models.</font></a><br>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee T, Fu L, James G and Sun W. <i>(under revision).</i></font><br/>
  </li>
-     
+ <li>
+     <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
+     <font size="3">Sharma P and Banerjee T. <i>(under revision).</i></font><br/>
+ </li>    
   </ol>
   <h3>Publications</h3>
   <ol reversed>
