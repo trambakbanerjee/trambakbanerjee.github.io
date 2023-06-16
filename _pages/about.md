@@ -13,8 +13,6 @@ I am an Assistant Professor of [Analytics, Information and Operations Management
 I am broadly interested in the development of rigorous statistical methods for analyzing modern high dimensional data when issues such as unobserved heterogeneity and noise accumulation in these datasets impede inferences using standard methods. My industry experience has had a significant impact on my research interests, and the methodological flavor of my research often has its genesis in a concrete applied problem. The following are my current research interests: 
 
 1. Nonparametric Empirical Bayes methods,
-2. Estimation and Prediction in Multivariate Mixed Models, and
-3. Modern statistical applications in Health, Consumer Behavior and Marketing.
-
-
-
+2. Estimation and Prediction in Multivariate Mixed Models,
+3. Large Scale Multiple Testing, and
+4. Applied problems in Health, Consumer Behavior and Finance.
