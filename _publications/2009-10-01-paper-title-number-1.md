@@ -16,7 +16,7 @@ author_profile: true
      <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>(under review).</i></font><br/>
  </li>
   <li>
-     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
+     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
 Mixed Models.</font></a><br>
      <font size="3">Banerjee T and Sharma P. <i>(under review).</i></font><br/>     
 </li>
