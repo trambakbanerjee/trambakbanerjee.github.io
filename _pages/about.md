@@ -14,5 +14,5 @@ I am broadly interested in the development of rigorous statistical methods for a
 
 1. Nonparametric Empirical Bayes methods,
 2. Estimation and Prediction in Multivariate Mixed Models,
-3. Large Scale Multiple Testing, and
+3. Large-Scale Multiple Testing, and
 4. Applied problems in Health, Consumer Behavior and Finance.
