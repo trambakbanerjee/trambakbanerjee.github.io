@@ -31,7 +31,7 @@ Mixed Models.</font></a><br>
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma P* and Banerjee T. <i>(under revision).</i></font><br/>
-     <font size="3" color="red"><i>*<a href="https://event.olin.wustl.edu/sbies" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></i></font><br/>
+     <font size="3"><i>*<a href="https://event.olin.wustl.edu/sbies" style="color:red;" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></i></font><br/>
  </li>    
   </ol>
   <h3>Publications</h3>
