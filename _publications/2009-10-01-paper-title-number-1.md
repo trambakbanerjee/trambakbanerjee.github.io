@@ -64,13 +64,13 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3">Banerjee T*, Mukherjee G, Dutta S and Ghosh P.</font>
      <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 530, Pages 538-554.</i></font>
      <font size="3">MATLAB-toolbox: <a href="https://github.com/trambakbanerjee/cezij#what-is-cezij" target="_blank">cezij</a></font><br>
-     <font size="3" color="red"><i>*Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at IIMB.</a></i></font><br/>
+     <font size="3" color="#F59B00">*Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at IIMB.</a></font><br/>
 </li>
  <li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank"><font size="3">Adaptive Sparse Estimation with Side Information.</font></a><br>
       <font size="3">Banerjee T*, Mukherjee G and Sun W.</font>
       <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 532, Pages 2053-2067.</i></font><br>
       <font size="3">R-package: <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">asus</a></font><br>
-      <font size="3" color="#F59B00"><i>*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="#F59B00"><i> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></i></font><br/>
+      <font size="3" color="#F59B00">*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></font><font size="3" color="#F59B00"> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></font><br/>
    </li>
  <li>
      <font size="3">Invited Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
