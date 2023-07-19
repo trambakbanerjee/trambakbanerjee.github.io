@@ -31,7 +31,7 @@ Mixed Models.</font></a><br>
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma P* and Banerjee T. <i>(under revision).</i></font><br/>
-     <font size="3">*<b><a href="https://event.olin.wustl.edu/sbies" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></b></font><br/>
+     <font size="3">*<a href="https://event.olin.wustl.edu/sbies" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
  </li>    
   </ol>
   <h3>Publications</h3>
@@ -70,10 +70,10 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
       <font size="3">Banerjee T*, Mukherjee G and Sun W.</font>
       <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 532, Pages 2053-2067.</i></font><br>
       <font size="3">R-package: <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">asus</a></font><br>
-      <font size="3" color="red"><i>*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="red"><i> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" target="_blank">2017 IISA annual conference student poster competition.</a></i></font><br/>
+      <font size="3" color="#F59B00"><i>*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></i></font><font size="3" color="#F59B00"><i> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></i></font><br/>
    </li>
  <li>
-     <font size="3">Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
+     <font size="3">Invited Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
      <font size="3">Banerjee T and Mukherjee G.</font>
      <font size="3"><i>Journal of the Royal Statistical Society, Series B (2019), Volume 81, Pages 223-224.</i></font><br/>
  </li>
