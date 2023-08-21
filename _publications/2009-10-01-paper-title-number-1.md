@@ -7,7 +7,7 @@ author_profile: true
 <h3>Working papers</h3>
 <ol>
 <li>
-     <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
+     <a href="https://trambakbanerjee.github.io/publications/" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
      <font size="3">Banerjee T, Gang B and He J. <i>(under review).</i></font><br/>   
   <font size="3">Reproducibility: <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">R code</a></font><br>
 </li>
