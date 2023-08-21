@@ -9,7 +9,6 @@ author_profile: true
 <li>
      <font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font><br>
      <font size="3">Banerjee T, Gang B and He J. <i>(under review).</i></font><br/>   
-  <font size="3">Reproducibility: <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">R code</a></font><br>
 </li>
 <li>
      <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
