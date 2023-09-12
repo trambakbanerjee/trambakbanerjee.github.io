@@ -42,9 +42,9 @@ Mixed Models.</font></a><br>
   <h3>Publications</h3>
   <ol reversed>
     <li>
-     <a href="https://trambakbanerjee.github.io/index#publications--articles-in-review" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
+     <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
 Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Random Effects.</font></a><br>
-     <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <i>(2023) forthcoming at Annals of Applied Statistics.</i></font><br/>
+     <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <i> Annals of Applied Statistics (2023), Volume 17, no. 3, Pages 2533-2554.</i></font><br/>
  </li>
  <li>
      <a href="https://arxiv.org/abs/2108.00951" target="_blank"><font size="3">Rethinking gradient sparsification as total error minimization.</font></a><br>
