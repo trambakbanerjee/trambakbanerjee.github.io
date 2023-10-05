@@ -18,7 +18,6 @@ author_profile: true
      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
 Mixed Models.</font></a><br>
      <font size="3">Banerjee T* and Sharma P. <i>(under review).</i></font><br/> 
-     <font size="3">*<a href="https://web.cvent.com/event/f7921663-d37f-441f-99f4-50d99259425f/summary" style="color:#F59B00" target="_blank">33rd Annual Meeting of the Midwest Econometrics Group.</a></font><br/>
 </li>
 <li>
      <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
