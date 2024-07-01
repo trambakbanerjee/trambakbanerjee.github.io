@@ -38,7 +38,7 @@ Mixed Models.</font></a><br>
   <h3>Publications</h3>
   <ol reversed>
    <li>
-     <a href="https://arxiv.org/abs/2304.13848" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
+     <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
      <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>forthcoming: Journal of Computational and Graphical Statistics.</i></font><br/>
  </li>
     <li>
