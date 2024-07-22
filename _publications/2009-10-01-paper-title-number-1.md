@@ -7,31 +7,30 @@ author_profile: true
 <h3>Working papers</h3>
 <ol>
  <li>
+     <a href="https://arxiv.org/abs/2308.11026" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
+     <font size="3">Banerjee T, Gang B and He J. </font><br/>   
+</li>
+ <li>
      <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
-     <font size="3">Gang B and Banerjee T. <i>(under revision).</i></font><br/>   
+     <font size="3">Gang B and Banerjee T. </font><br/>   
   <font size="3">Reproducibility: <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">R code</a></font><br>
 </li>
  <li>
-     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
-     <font size="3">Banerjee T, Fu L, Mukherjee G, James G and Sun W. <i>(under revision).</i></font><br/>
- </li>
- <li>
      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank"><font size="3">Nonparametric Empirical Bayes Prediction in
 Mixed Models.</font></a><br>
-     <font size="3">Banerjee T* and Sharma P. <i>(under revision).</i></font><br/> 
+     <font size="3">Banerjee T* and Sharma P. </font><br/> 
 </li>
-<li>
-     <a href="https://arxiv.org/abs/2308.11026" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
-     <font size="3">Banerjee T, Gang B and He J. <i>(under revision).</i></font><br/>   
-</li>
+ <li>
+     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
+     <font size="3">Banerjee T, Fu L, Mukherjee G, James G and Sun W. </font><br/>
+ </li>
 <li>
      <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
-     <font size="3">Sharma P and Banerjee T. <i>(under revision).</i></font><br/>     
+     <font size="3">Sharma P and Banerjee T. </font><br/>     
 </li>
-
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
-     <font size="3">Sharma P* and Banerjee T. <i>(under revision).</i></font><br/>
+     <font size="3">Sharma P* and Banerjee T. </font><br/>
      <font size="3">*<a href="https://event.olin.wustl.edu/sbies" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
  </li>    
   </ol>
