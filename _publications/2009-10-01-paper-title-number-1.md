@@ -24,10 +24,6 @@ Mixed Models.</font></a><br>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee T, Fu L, Mukherjee G, James G and Sun W. </font><br/>
  </li>
-<li>
-     <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
-     <font size="3">Sharma P and Banerjee T. </font><br/>     
-</li>
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma P* and Banerjee T. </font><br/>
@@ -37,8 +33,12 @@ Mixed Models.</font></a><br>
   <h3>Publications</h3>
   <ol reversed>
    <li>
+     <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
+     <font size="3">Sharma P and Banerjee T. <i>forthcoming,  Journal of the Royal Statistical Society: Series A.</i></font><br/>     
+</li>
+   <li>
      <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
-     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>forthcoming: Journal of Computational and Graphical Statistics.</i></font><br/>
+     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Journal of Computational and Graphical Statistics (2024), 1--12.</i></font><br/>
  </li>
     <li>
      <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
