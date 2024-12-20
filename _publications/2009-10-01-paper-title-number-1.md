@@ -28,7 +28,7 @@ Mixed Models.</font></a><br>
   <h3>Publications (*corresponding author)</h3>
   <ol reversed>
    <li>
-    <font size="3">Gang, B., & Banerjee, T*. (2024). <u>Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</u> <i>accepted at Biometrika.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
+    <font size="3">Gang, B., & Banerjee, T*. (2024). <b>Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</b> <i>accepted at Biometrika.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
    <font size="3">Sharma, P., & Banerjee, T*. (2024). <b>Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</b> <i>accepted at the Journal of the Royal Statistical Society: Series A.</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
