@@ -28,13 +28,10 @@ Mixed Models.</font></a><br>
   <h3>Publications (*corresponding author)</h3>
   <ol reversed>
    <li>
-     <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
-     <font size="3">Gang B and Banerjee T*. <i>accepted at Biometrika.</i></font><br/>   
-  <font size="3">Reproducibility: <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">R code</a></font><br>
+    <font size="3">Gang, B., & Banerjee, T*. (2024). <b>Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</b> <i>accepted at Biometrika.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
-     <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"><font size="3">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</font></a><br>
-     <font size="3">Sharma P and Banerjee T*. <i>accepted at the Journal of the Royal Statistical Society: Series A.</i></font><br/>     
+   <font size="3">Sharma, P., & Banerjee, T*. (2024). <b>Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</b> <i>accepted at the Journal of the Royal Statistical Society: Series A.</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <b>Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</b> <i>Journal of Computational and Graphical Statistics, 1-12.</i> [PDF, <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Journal</a>, Code</font>]<br/>
