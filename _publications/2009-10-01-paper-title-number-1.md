@@ -37,9 +37,8 @@ Mixed Models.</font></a><br>
      <font size="3">Sharma P and Banerjee T*. <i>accepted at the Journal of the Royal Statistical Society: Series A.</i></font><br/>     
 </li>
    <li>
-     <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank"><font size="3">Bootstrapped Edge Count Tests for Consistent Nonparametric Two-Sample Testing Under Heterogeneity.</font></a><br>
-     <font size="3">Banerjee T, Bhattacharya B and Mukherjee G. <i>Journal of Computational and Graphical Statistics (2024), 1--12.</i></font><br/>
- </li>
+    <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <b>Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</b> <i>Journal of Computational and Graphical Statistics, 1-12.</i> [PDF, <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Journal</a>, Code</font>]<br/>
+</li>
     <li>
      <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
 Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Random Effects.</font></a><br>
@@ -51,13 +50,13 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      </li>
  <li>
      <font size="3">Banerjee T., Mukherjee G. and Paul D. (2021). <b>Improved Shrinkage Prediction under a Spiked Covariance Structure.</b><i> Journal of Machine Learning Research, 22(180),1−40.</i>
-     [<a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">Code</a></font>]<br/>
+     [<a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank">PDF / Journal</a>, <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
-     <font size="3">Banerjee T., Liu Q., Mukherjee G., and Sun W. (2021). <b>A general framework for empirical Bayes estimation in discrete linear exponential family.</b><i> Journal of Machine Learning Research 22(67), 1−46.</i> [<a href="https://jmlr.org/papers/v22/19-873.html" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/DLE_paper" target="_blank">Code</a></font>]<br/>
+     <font size="3">Banerjee T., Liu Q., Mukherjee G., and Sun W. (2021). <b>A general framework for empirical Bayes estimation in discrete linear exponential family.</b><i> Journal of Machine Learning Research 22(67), 1−46.</i> [<a href="https://jmlr.org/papers/v22/19-873.html" target="_blank">PDF / Journal</a>, <a href="https://github.com/trambakbanerjee/DLE_paper" target="_blank">Code</a></font>]<br/>
  </li>
  <li>
-  <font size="3">Banerjee T., Bhattacharya B. B., & Mukherjee G. (2020). <b>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </b><i>Annals of Applied Statistics, Volume 14, no. 4, Pages 1777-1805. </i>[<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/A-nearest-neighbor-based-nonparametric-test-for-viral-remodeling-in/10.1214/20-AOAS1362.full" target="_blank">PDF</a>, <a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">Code</a></font>]<br/>
+  <font size="3">Banerjee T., Bhattacharya B. B., & Mukherjee G. (2020). <b>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </b><i>Annals of Applied Statistics, Volume 14, no. 4, Pages 1777-1805. </i>[<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/A-nearest-neighbor-based-nonparametric-test-for-viral-remodeling-in/10.1214/20-AOAS1362.full" target="_blank">PDF / Journal</a>, <a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank"><font size="3">A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</font></a><br>
@@ -87,7 +86,7 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
 <h3>Invited Discussions</h3>
  <ol reversed>
 <li>
-     <font size="3">Invited Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
+     <font size="3">Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
      <font size="3">Banerjee T and Mukherjee G.</font>
      <font size="3"><i>Journal of the Royal Statistical Society, Series B (2019), Volume 81, Pages 223-224.</i></font><br/>
  </li>
