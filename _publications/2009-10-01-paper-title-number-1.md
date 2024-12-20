@@ -50,13 +50,11 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3">Atal Narayan Sahu, Aritra Dutta, Ahmed M. Abdelmoniem, Trambak Banerjee, Marco Canini and Panos Kalnis.<i> NeurIPS (2021).</i></font><br>
      </li>
  <li>
-     <b><font size="3">Improved Shrinkage Prediction under a Spiked Covariance Structure.</font></b><br>
-     <font size="3">Banerjee T, Mukherjee G and Paul D. <i> Journal of Machine Learning Research (2021) 22(180):1−40.</i></font><br>
-     <font size="3"><a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank"><font size="3">PDF</font></a>, R-package: <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">casp</a></font><br/>
+     <font size="3">Banerjee T., Mukherjee G. and Paul D. (2021). <b>Improved Shrinkage Prediction under a Spiked Covariance Structure.</b><i> Journal of Machine Learning Research, 22(180),1−40.</i>
+     [<a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
-     <a href="https://www.jmlr.org/papers/v22/19-873.html" target="_blank"><font size="3">A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family.</font></a><br>
-     <font size="3">Banerjee T, Liu Q, Mukherjee G and Sun W. <i>Journal of Machine Learning Research (2021) 22(67):1−46.</i></font><br/>
+     <font size="3">Banerjee T., Liu Q., Mukherjee G., and Sun W. (2021). <b>A general framework for empirical Bayes estimation in discrete linear exponential family.</b><i> Journal of Machine Learning Research 22(67), 1−46.</i> [<a href="https://jmlr.org/papers/v22/19-873.html" target="_blank">PDF</a></font>]<br/>
  </li>
  <li>
      <a href="https://projecteuclid.org/euclid.aoas/1608346899"><font size="3">A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data.</font></a><br>
