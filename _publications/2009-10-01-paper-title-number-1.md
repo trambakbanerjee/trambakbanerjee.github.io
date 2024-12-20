@@ -25,7 +25,7 @@ Mixed Models.</font></a><br>
      <font size="3"><a href="https://event.olin.wustl.edu/sbies" style="color:#F59B00" target="_blank">*2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
  </li>    
   </ol>
-  <h4><font size="5">Publications (*corresponding author)</font></h4>
+  <h4><font size="3">Publications (*corresponding author)</font></h4>
   <ol reversed>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2024). <b>Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</b> <i>accepted at Biometrika.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
