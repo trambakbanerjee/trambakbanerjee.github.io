@@ -73,12 +73,7 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
       <font size="3" color="#F59B00">*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></font><br>
       <font size="3" color="#F59B00"> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></font><br/>
    </li>
- <li>
-     <font size="3">Invited Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
-     <font size="3">Banerjee T and Mukherjee G.</font>
-     <font size="3"><i>Journal of the Royal Statistical Society, Series B (2019), Volume 81, Pages 223-224.</i></font><br/>
- </li>
- <li>
+  <li>
      <a href="https://doi.org/10.1016/j.jmva.2017.08.001" target="_blank"><font size="3">Feature Screening in Large Scale Cluster Analysis.</font></a><br>
      <font size="3">Banerjee T, Mukherjee G and Radchenko P.</font>
      <font size="3"><i>Journal of Multivariate Analysis (2017), Volume 161, Pages 191-212.</i></font><br>
@@ -89,4 +84,10 @@ Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Rand
      <font size="3"><i>Cell Reports (2017), Volume 20, Issue 4, 984 - 998.</i></font><br/>
   </li>
  </ol>
-
+<h3>Invited Discussions</h3>
+ <ol reversed>
+<li>
+     <font size="3">Invited Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
+     <font size="3">Banerjee T and Mukherjee G.</font>
+     <font size="3"><i>Journal of the Royal Statistical Society, Series B (2019), Volume 81, Pages 223-224.</i></font><br/>
+ </li>
