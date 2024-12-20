@@ -25,7 +25,7 @@ Mixed Models.</font></a><br>
      <font size="3"><a href="https://event.olin.wustl.edu/sbies" style="color:#F59B00" target="_blank">*2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
  </li>    
   </ol>
-  <h3><p style="color:blue;">Publications (*corresponding author)</p></h3>
+  <h3><p style="color:CornflowerBlue;">Publications (*corresponding author)</p></h3>
   <ol reversed>
    <li>
      <a href="https://arxiv.org/abs/2306.07362" target="_blank"><font size="3">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</font></a><br>
