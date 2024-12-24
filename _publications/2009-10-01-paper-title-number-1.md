@@ -48,11 +48,12 @@ Mixed Models.</font></a><br>
    <i>Advances in Neural Information Processing Systems, 34, 8133-8146.</i></font><br/>
      </li>
  <li>
-     <font size="3">Banerjee T., Mukherjee G. and Paul D. (2021). Improved Shrinkage Prediction under a Spiked Covariance Structure.<i> Journal of Machine Learning Research, 22(180),1−40.</i>
-     [<a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank">PDF / Journal</a>, <a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">Code</a></font>]<br/>
+     <font size="3">Banerjee T., Mukherjee G. & Paul D. (2021). <a href="https://jmlr.org/papers/v22/21-0006.html" target="_blank">Improved Shrinkage Prediction under a Spiked Covariance Structure.</a><br/>
+      <i> Journal of Machine Learning Research, 22 (180),1−40.</i> [<a href="https://github.com/trambakbanerjee/casp#casp" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
-     <font size="3">Banerjee T., Liu Q., Mukherjee G., and Sun W. (2021). A general framework for empirical Bayes estimation in discrete linear exponential family.<i> Journal of Machine Learning Research 22(67), 1−46.</i> [<a href="https://jmlr.org/papers/v22/19-873.html" target="_blank">PDF / Journal</a>, <a href="https://github.com/trambakbanerjee/DLE_paper" target="_blank">Code</a></font>]<br/>
+     <font size="3">Banerjee T., Liu Q., Mukherjee G., & Sun W. (2021). <a href="https://jmlr.org/papers/v22/19-873.html" target="_blank">A general framework for empirical Bayes estimation in discrete linear exponential family.</a><br/>
+      <i> Journal of Machine Learning Research, 22 (67), 1−46.</i> [<a href="https://github.com/trambakbanerjee/DLE_paper" target="_blank">Code</a></font>]<br/>
  </li>
  <li>
   <font size="3">Banerjee T., Bhattacharya B. B., & Mukherjee G. (2020). A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. <i>Annals of Applied Statistics, Volume 14, no. 4, Pages 1777-1805. </i>[<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/A-nearest-neighbor-based-nonparametric-test-for-viral-remodeling-in/10.1214/20-AOAS1362.full" target="_blank">PDF / Journal</a>, <a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">Code</a></font>]<br/>
