@@ -28,22 +28,24 @@ Mixed Models.</font></a><br>
   <h3>Publications (*corresponding author)</h3>
   <ol reversed>
    <li>
-    <font size="3">Gang, B., & Banerjee, T*. (2024). Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity. <i>accepted at Biometrika.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
+    <font size="3">Gang, B., & Banerjee, T*. (2024). Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.<br>
+     <i>Biometrika (Accepted)</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
-   <font size="3">Sharma, P., & Banerjee, T*. (2024). Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises. <i>accepted at the Journal of the Royal Statistical Society: Series A.</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, Journal, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
+   <font size="3">Sharma, P., & Banerjee, T*. (2024). Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises. <br>
+    <i>Journal of the Royal Statistical Society: Series A (Accepted)</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
-    <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity. <i>Journal of Computational and Graphical Statistics, 1-12.</i> [PDF, <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Journal</a>, Code</font>]<br/>
+    <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
+     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [PDF, Code</font>]<br/>
 </li>
     <li>
-     <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank"><font size="3">Joint Modeling of Playing Time and Purchase
-Propensity in Massively Multiplayer Online Role Playing Games Using Crossed Random Effects.</font></a><br>
-     <font size="3">Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <i> Annals of Applied Statistics (2023), Volume 17, no. 3, Pages 2533-2554.</i></font><br/>
+     <font size="3">Banerjee, T., Liu, P., Mukherjee, G., Dutta, S., & Che, H. (2023). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank">Joint modeling of playing time and purchase propensity in massively multiplayer online role-playing games using crossed random effects.</a><br>
+     <i>The Annals of Applied Statistics, 17(3), 2533-2554.</i> [PDF, Code</font>]<br/>
  </li>
  <li>
-     <a href="https://arxiv.org/abs/2108.00951" target="_blank"><font size="3">Rethinking gradient sparsification as total error minimization.</font></a><br>
-     <font size="3">Atal Narayan Sahu, Aritra Dutta, Ahmed M. Abdelmoniem, Trambak Banerjee, Marco Canini and Panos Kalnis.<i> NeurIPS (2021).</i></font><br>
+  <font size="3">Sahu, A., Dutta, A., M Abdelmoniem, A., Banerjee, T., Canini, M., & Kalnis, P. (2021). <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/447b0408b80078338810051bb38b177f-Paper.pdf" targt="_blank">Rethinking gradient sparsification as total error minimization.</a><br>
+   <i>Advances in Neural Information Processing Systems, 34, 8133-8146.</i></font><br/>
      </li>
  <li>
      <font size="3">Banerjee T., Mukherjee G. and Paul D. (2021). Improved Shrinkage Prediction under a Spiked Covariance Structure.<i> Journal of Machine Learning Research, 22(180),1−40.</i>
