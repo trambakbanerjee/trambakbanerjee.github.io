@@ -4,7 +4,9 @@ title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+<section id="preprints">
 <h3><a href="#">Working papers</a></h3>
+</section>
 <ol>
  <li>
      <a href="https://arxiv.org/abs/2308.11026" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
@@ -85,7 +87,9 @@ Mixed Models.</font></a><br>
    <i>Cell reports, 20(4), 984-998.</i></font><br/>
   </li>
  </ol>
+ <section id="discussions">
 <h3><a href="###">Invited Discussions</a></h3>
+ </section>
  <ol reversed>
 <li>
      <font size="3">Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
