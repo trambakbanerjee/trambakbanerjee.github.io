@@ -26,7 +26,7 @@ Mixed Models.</font></a><br>
  </li>
   <li>
      <a href="https://arxiv.org/abs/2308.05883" target="_blank"><font size="3">Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach</font></a><br>
-     <font size="3">Luo, J., Banerjee, T., Mukherjee, G., & Sun, W.. </font><br/>
+     <font size="3">Luo, J., Banerjee, T., Mukherjee, G., & Sun, W. </font><br/>
  </li>
   </ol>
   <h3>Publications (*corresponding author)</h3>
