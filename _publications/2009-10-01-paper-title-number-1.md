@@ -64,22 +64,19 @@ Mixed Models.</font></a><br>
     <i>Journal of the American Statistical Association, Volume 115, no. 530, Pages 538-554.</i> [PDF, <a href="https://github.com/trambakbanerjee/cezij#what-is-cezij" target="_blank">Code</a></font>]<br/>
    <font size="3" color="#F59B00">Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at Indian Institute of Management, Bangalore.</a></font><br/>
 </li>
- <li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank"><font size="3">Adaptive Sparse Estimation with Side Information.</font></a><br>
-      <font size="3">Banerjee T*, Mukherjee G and Sun W.</font>
-      <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 532, Pages 2053-2067.</i></font><br>
-      <font size="3">R-package: <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">asus</a></font><br>
-      <font size="3" color="#F59B00">*Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></font><br>
-      <font size="3" color="#F59B00"> *Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></font><br/>
+ <li>
+  <font size="3">Banerjee, T., Mukherjee, G., & Sun, W. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1679639" target="_blank">Adaptive sparse estimation with side information.</a><br/>
+   <i>Journal of the American Statistical Association, 115(532), 2053-2067.</i>[PDF, <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">Code</a></font>]<br>
+     <font size="3" color="#F59B00">Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></font><br>
+      <font size="3" color="#F59B00">Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></font><br/>
    </li>
   <li>
-     <a href="https://doi.org/10.1016/j.jmva.2017.08.001" target="_blank"><font size="3">Feature Screening in Large Scale Cluster Analysis.</font></a><br>
-     <font size="3">Banerjee T, Mukherjee G and Radchenko P.</font>
-     <font size="3"><i>Journal of Multivariate Analysis (2017), Volume 161, Pages 191-212.</i></font><br>
-     <font size="3">R-package: <a href="https://github.com/trambakbanerjee/fusionclust#fusionclust" target="_blank">fusionclust</a></font><br/>
+   <font size="3">Banerjee, T., Mukherjee, G., & Radchenko, P. (2017). <a href="https://doi.org/10.1016/j.jmva.2017.08.001" target="_blank">Feature screening in large scale cluster analysis.</a><br>
+    <i>Journal of Multivariate Analysis, 161, 191-212.</i> [<a href="https://github.com/trambakbanerjee/fusionclust#fusionclust" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
-     <a href="https://www.ncbi.nlm.nih.gov/pubmed/28746881" target="_blank"><font size="3">Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.</font></a><br>
-     <font size="3"><i>Cell Reports (2017), Volume 20, Issue 4, 984 - 998.</i></font><br/>
+  <font size="3">Cavrois, M., Banerjee, T., Mukherjee, G., Raman, N., Hussien, R., Rodriguez, B. A., ... & Roan, N. R. (2017). <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(17)30935-X" target="_blank">Mass cytometric analysis of HIV entry, replication, and remodeling in tissue CD4+ T cells.</a><br/>
+   <i>Cell reports, 20(4), 984-998.</i>
   </li>
  </ol>
 <h3>Invited Discussions</h3>
