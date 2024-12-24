@@ -62,7 +62,7 @@ Mixed Models.</font></a><br>
  <li>
    <font size="3">Banerjee, T., Mukherjee, G., Dutta, S., & Ghosh, P. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank">A large-scale constrained joint modeling approach for predicting user activity, engagement, and churn with application to freemium mobile games.</a><br/>
     <i>Journal of the American Statistical Association, Volume 115, no. 530, Pages 538-554.</i> [<a href="https://trambakbanerjee.github.io/utils/CEZIJ_paper.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/cezij#what-is-cezij" target="_blank">Code</a></font>]<br/>
-   <font size="3" color="#F59B00">Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at Indian Institute of Management, Bangalore.</a></font><br/>
+   <font size="3" color="#F59B00">Best Paper award: <a href="https://www.iimb.ac.in/node/4692" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at Indian Institute of Management, Bangalore.</a></font><br/>
 </li>
  <li>
   <font size="3">Banerjee, T., Mukherjee, G., & Sun, W. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1679639" target="_blank">Adaptive sparse estimation with side information.</a><br/>
