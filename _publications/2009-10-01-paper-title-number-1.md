@@ -37,11 +37,11 @@ Mixed Models.</font></a><br>
 </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
-     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [PDF, Code</font>]<br/>
+     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, Code</font>]<br/>
 </li>
     <li>
      <font size="3">Banerjee, T., Liu, P., Mukherjee, G., Dutta, S., & Che, H. (2023). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank">Joint modeling of playing time and purchase propensity in massively multiplayer online role-playing games using crossed random effects.</a><br>
-     <i>The Annals of Applied Statistics, 17(3), 2533-2554.</i> [PDF, Code</font>]<br/>
+     <i>The Annals of Applied Statistics, 17(3), 2533-2554.</i> [<a href="https://trambakbanerjee.github.io/utils/CREJM_paper.pdf" target="_blank">PDF</a>, Code</font>]<br/>
  </li>
  <li>
   <font size="3">Sahu, A., Dutta, A., M Abdelmoniem, A., Banerjee, T., Canini, M., & Kalnis, P. (2021). <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/447b0408b80078338810051bb38b177f-Paper.pdf" targt="_blank">Rethinking gradient sparsification as total error minimization.</a><br>
