@@ -4,6 +4,7 @@ title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+On this page I have organized my research into the following three categories: <a href="https://trambakbanerjee.github.io/publications/#preprints">Working papers</a>, <a href="https://trambakbanerjee.github.io/publications/#pubs">Publications</a> and <a href="https://trambakbanerjee.github.io/publications/#discussions">Invited discussions</a>. 
 <section id="preprints">
 <h3>Working papers</h3>
 </section>
