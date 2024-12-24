@@ -66,7 +66,7 @@ Mixed Models.</font></a><br>
 </li>
  <li>
   <font size="3">Banerjee, T., Mukherjee, G., & Sun, W. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1679639" target="_blank">Adaptive sparse estimation with side information.</a><br/>
-   <i>Journal of the American Statistical Association, 115(532), 2053-2067.</i> [<a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">Code</a></font>]<br>
+   <i>Journal of the American Statistical Association, 115(532), 2053-2067.</i> [<a href="https://arxiv.org/abs/1811.11930" style="color:#F59B00" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/asus#asus" target="_blank">Code</a></font>]<br>
      <font size="3" color="#F59B00">Distinguished Student Paper Award: <a href="https://enar.org/meetings/spring2019/index.cfm" style="color:#F59B00" target="_blank">2019 ENAR Spring meeting.</a></font><br>
       <font size="3" color="#F59B00">Runner-up: <a href="https://trambakbanerjee.github.io/utils/ASUS.pdf" style="color:#F59B00" target="_blank">2017 IISA annual conference student poster competition.</a></font><br/>
    </li>
