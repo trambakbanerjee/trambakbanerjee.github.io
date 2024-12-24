@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <section id="preprints">
-<h3><a href="#">Working papers</a></h3>
+<h3>Working papers</h3>
 </section>
 <ol>
  <li>
@@ -88,7 +88,7 @@ Mixed Models.</font></a><br>
   </li>
  </ol>
  <section id="discussions">
-<h3><a href="###">Invited Discussions</a></h3>
+<h3>Invited Discussions</h3>
  </section>
  <ol reversed>
 <li>
