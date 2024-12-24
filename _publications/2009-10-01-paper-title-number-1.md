@@ -29,7 +29,7 @@ Mixed Models.</font></a><br>
      <font size="3">Luo, J., Banerjee, T., Mukherjee, G., & Sun, W. </font><br/>
  </li>
   </ol>
-  <h3><a href="#publications">Publications</a> (*corresponding author)</h3>
+  <h3><a href="#pubs">Publications</a> (*corresponding author)</h3>
   <ol reversed>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2024). Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.<br>
@@ -83,7 +83,7 @@ Mixed Models.</font></a><br>
    <i>Cell reports, 20(4), 984-998.</i></font><br/>
   </li>
  </ol>
-<h3>Invited Discussions</h3>
+<h3><a href="#discussions">Invited Discussions</a></h3>
  <ol reversed>
 <li>
      <font size="3">Discussion of <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12304" target="_blank">CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang.</a></font><br>
