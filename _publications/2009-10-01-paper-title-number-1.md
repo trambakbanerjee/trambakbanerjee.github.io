@@ -29,7 +29,7 @@ Mixed Models.</font></a><br>
      <font size="3">Luo, J., Banerjee, T., Mukherjee, G., & Sun, W. </font><br/>
  </li>
   </ol>
-  <h3>Publications (*corresponding author)</h3>
+  <h3><a href="#">Publications</a> (*corresponding author)</h3>
   <ol reversed>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2024). Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.<br>
