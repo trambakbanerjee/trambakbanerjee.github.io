@@ -41,7 +41,7 @@ Mixed Models.</font></a><br>
 </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
-     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code" target="_blank">Code</a></font>]<br/>
+     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code.zip" target="_blank">Code</a></font>]<br/>
 </li>
     <li>
      <font size="3">Banerjee, T., Liu, P., Mukherjee, G., Dutta, S., & Che, H. (2023). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank">Joint modeling of playing time and purchase propensity in massively multiplayer online role-playing games using crossed random effects.</a><br>
