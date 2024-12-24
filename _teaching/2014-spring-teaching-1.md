@@ -9,7 +9,7 @@ author_profile: true
 <ol>
    <li>
       <h3>BSAN 450: Data Mining & Predictive Analytics (undergraduate) - Spring 2021 - 2025</h3>
-      <p>The primary objective of this course is to enable students to explain and perform statistical analysis of data, with the view of being able to critically evaluate statistical reports or findings. This course relies heavily on computer programming using R. </p>
+      <p>The primary objective of this course is to enable students to explain and perform statistical analysis of data, with the view of being able to critically evaluate statistical reports or findings. The main focus of the course is Time Series analysis and includes an introduction to ARCH and GARCH models. Since Spring 2024, I have added an introduction to Conformal Inference for classification problems into the curriculum. This course relies heavily on computer programming using R.</p>
     </li>
    <li>
       <h3>BSAN 730: Large Scale Data Analysis (graduate) - Spring 2021 - 2025</h3>
