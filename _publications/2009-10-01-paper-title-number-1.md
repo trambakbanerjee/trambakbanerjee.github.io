@@ -76,7 +76,7 @@ Mixed Models.</font></a><br>
   </li>
  <li>
   <font size="3">Cavrois, M., Banerjee, T., Mukherjee, G., Raman, N., Hussien, R., Rodriguez, B. A., ... & Roan, N. R. (2017). <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(17)30935-X" target="_blank">Mass cytometric analysis of HIV entry, replication, and remodeling in tissue CD4+ T cells.</a><br/>
-   <i>Cell reports, 20(4), 984-998.</i>
+   <i>Cell reports, 20(4), 984-998.</i></font><br/>
   </li>
  </ol>
 <h3>Invited Discussions</h3>
