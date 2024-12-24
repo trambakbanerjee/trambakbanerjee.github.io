@@ -56,14 +56,13 @@ Mixed Models.</font></a><br>
       <i> Journal of Machine Learning Research, 22 (67), 1−46.</i> [<a href="https://github.com/trambakbanerjee/DLE_paper" target="_blank">Code</a></font>]<br/>
  </li>
  <li>
-  <font size="3">Banerjee T., Bhattacharya B. B., & Mukherjee G. (2020). A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. <i>Annals of Applied Statistics, Volume 14, no. 4, Pages 1777-1805. </i>[<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/A-nearest-neighbor-based-nonparametric-test-for-viral-remodeling-in/10.1214/20-AOAS1362.full" target="_blank">PDF / Journal</a>, <a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">Code</a></font>]<br/>
+  <font size="3">Banerjee T., Bhattacharya B. B., & Mukherjee G. (2020). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/A-nearest-neighbor-based-nonparametric-test-for-viral-remodeling-in/10.1214/20-AOAS1362.full" target="_blank">A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data.</a><br/>
+   <i>Annals of Applied Statistics, Volume 14, no. 4, Pages 1777-1805. </i>[<a href="https://cran.r-project.org/web/packages/truh/index.html" target="_blank">Code</a></font>]<br/>
   </li>
  <li>
-     <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank"><font size="3">A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</font></a><br>
-     <font size="3">Banerjee T*, Mukherjee G, Dutta S and Ghosh P.</font>
-     <font size="3"><i>Journal of the American Statistical Association (2020), Volume 115, no. 530, Pages 538-554.</i></font>
-     <font size="3">MATLAB-toolbox: <a href="https://github.com/trambakbanerjee/cezij#what-is-cezij" target="_blank">cezij</a></font><br>
-     <font size="3" color="#F59B00">*Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at Indian Institute of Management, Bangalore.</a></font><br/>
+   <font size="3">Banerjee, T., Mukherjee, G., Dutta, S., & Ghosh, P. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1611584" target="_blank">A large-scale constrained joint modeling approach for predicting user activity, engagement, and churn with application to freemium mobile games.</a><br/>
+    <i>Journal of the American Statistical Association, Volume 115, no. 530, Pages 538-554.</i> [PDF, <a href="https://github.com/trambakbanerjee/cezij#what-is-cezij" target="_blank">Code</a></font>]<br/>
+   <font size="3" color="#F59B00">*Best Paper award: <a href="http://dcal.iimb.ernet.in/baiconf2017/" style="color:#F59B00" target="_blank">5th International Conference on Business Analytics and Intelligence, 2017 at Indian Institute of Management, Bangalore.</a></font><br/>
 </li>
  <li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1679639" target="_blank"><font size="3">Adaptive Sparse Estimation with Side Information.</font></a><br>
       <font size="3">Banerjee T*, Mukherjee G and Sun W.</font>
