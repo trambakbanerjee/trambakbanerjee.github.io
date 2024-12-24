@@ -32,7 +32,7 @@ Mixed Models.</font></a><br>
  </li>
   </ol>
   <section id="pubs">
-  <h3>Publications(*corresponding author)</h3>
+  <h3>Publications (*corresponding author)</h3>
   </section>
   <ol reversed>
    <li>
