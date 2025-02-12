@@ -41,8 +41,8 @@ Mixed Models.</font></a><br>
      <i>Biometrika (forthcoming)</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
-   <font size="3">Sharma, P., & Banerjee, T*. (2024). Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises. <br>
-    <i>Journal of the Royal Statistical Society: Series A (Accepted)</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
+   <font size="3">Sharma, P., & Banerjee, T*. (2025).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
+    <i>Journal of the Royal Statistical Society: Series A (forthcoming)</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
