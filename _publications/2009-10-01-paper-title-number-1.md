@@ -22,7 +22,7 @@ Mixed Models.</font></a><br>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma, P., & Banerjee, T. </font><br/>
      <font size="3"><a href="https://idloom.events/files/events/11968/files/1clzmhwujztczuoa.pdf" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
-  <font size="3"><a href="https://somconnect.yale.edu/events/121885" style="color:#F59B00" target="_blank">2025 Fighting a Financial Crises Conference at Yale SOM.</a></font><br/>
+  <font size="3"><a href="https://somconnect.yale.edu/events/121885" style="color:#F59B00" target="_blank">2025 Fighting a Financial Crisis Conference at Yale SOM.</a></font><br/>
  </li>   
   <li>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
