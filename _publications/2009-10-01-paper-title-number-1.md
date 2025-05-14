@@ -22,6 +22,7 @@ Mixed Models.</font></a><br>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma, P., & Banerjee, T. </font><br/>
      <font size="3"><a href="https://idloom.events/files/events/11968/files/1clzmhwujztczuoa.pdf" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
+  <font size="3"><a href="https://somconnect.yale.edu/events/121885" style="color:#F59B00" target="_blank">2025 Fighting a Financial Crises Conference at Yale SOM.</a></font><br/>
  </li>   
   <li>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
@@ -38,11 +39,11 @@ Mixed Models.</font></a><br>
   <ol reversed>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2025). <a href="https://doi.org/10.1093/biomet/asaf007" target="_blank">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</a><br>
-     <i>Biometrika (forthcoming)</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
+     <i>Biometrika, asaf007.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
    <font size="3">Sharma, P., & Banerjee, T*. (2025).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
-    <i>Journal of the Royal Statistical Society: Series A (forthcoming)</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
+    <i>Journal of the Royal Statistical Society: Series A, qnae150</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
