@@ -28,10 +28,6 @@ Mixed Models.</font></a><br>
      <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Nonparametric Empirical Bayes Estimation on Heterogeneous Data.</font></a><br>
      <font size="3">Banerjee, T., Fu, L. J., James, G. M., Mukherjee, G., & Sun, W. </font><br/>
  </li>
-  <li>
-     <a href="https://arxiv.org/abs/2308.05883" target="_blank"><font size="3">Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach</font></a><br>
-     <font size="3">Luo, J., Banerjee, T., Mukherjee, G., & Sun, W. </font><br/>
- </li>
   </ol>
   <section id="pubs">
   <h3>Publications (*corresponding author)</h3>
@@ -45,6 +41,11 @@ Mixed Models.</font></a><br>
    <font size="3">Sharma, P., & Banerjee, T*. (2025).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
     <i>Journal of the Royal Statistical Society: Series A, qnae150</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
+   <li>
+    <font size="3">Luo, J., Banerjee, T*., Mukherjee, G., & Sun, W. (2025). <a>Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach.</a><br>
+     <i>forthcoming at Statistica Sinica.</i> [<a href="https://arxiv.org/abs/2308.05883" target="_blank">PDF</a>, <a href="https://github.com/jiajunluo121/NIT"
+ target="_blank">Code</a></font>]<br/>
+ </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
      <i>Journal of Computational and Graphical Statistics, 1-12.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code.zip" target="_blank">Code</a></font>]<br/>
