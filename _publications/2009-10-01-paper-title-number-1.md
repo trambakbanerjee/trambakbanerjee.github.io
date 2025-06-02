@@ -42,7 +42,7 @@ Mixed Models.</font></a><br>
     <i>Journal of the Royal Statistical Society: Series A, qnae150</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
-    <font size="3">Luo, J., Banerjee, T*., Mukherjee, G., & Sun, W. (2025). <a>Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach.</a><br>
+    <font size="3">Luo, J., Banerjee, T*., Mukherjee, G., & Sun, W. (2025). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0063_na.pdf" target="_blank">Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach.</a><br>
      <i>forthcoming at Statistica Sinica.</i> [<a href="https://arxiv.org/abs/2308.05883" target="_blank">PDF</a>, <a href="https://github.com/jiajunluo121/NIT"
  target="_blank">Code</a></font>]<br/>
  </li>
