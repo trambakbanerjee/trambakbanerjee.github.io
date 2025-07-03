@@ -30,7 +30,7 @@ author_profile: true
   <ol reversed>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2025). <a href="https://doi.org/10.1093/biomet/asaf007" target="_blank">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</a><br>
-     <i>Biometrika, asaf007.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
+     <i>Biometrika, Volume 112, Issue 2, asaf007.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
 </li>
    <li>
    <font size="3">Sharma, P., & Banerjee, T*. (2025).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
