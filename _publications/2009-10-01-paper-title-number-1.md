@@ -38,7 +38,7 @@ author_profile: true
 </li>
  <li>
   <font size="3">Banerjee, T*., & Sharma, P. (2025). <a href="https://link.springer.com/article/10.1007/s11222-025-10686-8" target="_blank">Nonparametric Empirical Bayes Prediction in Mixed Models.</a><br>
- <i>forthcoming at Statistics and Computing.</i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank">PDF</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank">Code</a></font>]<br/>
+ <i>Statistics and Computing, Volume 35, article number 145.</i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank">PDF</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458738" target="_blank">Code</a></font>]<br/>
 </li>
  <li><font size="3">Luo, J., Banerjee, T*., Mukherjee, G., & Sun, W. (2025). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0063_na.pdf" target="_blank">Empirical Bayes Estimation with Side Information: A Nonparametric Integrative Tweedie Approach.</a><br>
      <i>forthcoming at Statistica Sinica.</i> [<a href="https://arxiv.org/abs/2308.05883" target="_blank">PDF</a>, <a href="https://github.com/jiajunluo121/NIT"
@@ -46,7 +46,7 @@ author_profile: true
  </li>
    <li>
     <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
-     <i>Journal of Computational and Graphical Statistics, 1-12.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code.zip" target="_blank">Code</a></font>]<br/>
+     <i>Journal of Computational and Graphical Statistics, 34(1), 306–317.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code.zip" target="_blank">Code</a></font>]<br/>
 </li>
     <li>
      <font size="3">Banerjee, T., Liu, P., Mukherjee, G., Dutta, S., & Che, H. (2023). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Joint-modeling-of-playing-time-and-purchase-propensity-in-massively/10.1214/23-AOAS1731.short" target="_blank">Joint modeling of playing time and purchase propensity in massively multiplayer online role-playing games using crossed random effects.</a><br>
