@@ -10,10 +10,6 @@ author_profile: true
 </section>
 <ol>
  <li>
-     <a href="https://arxiv.org/abs/2308.11026" target="_blank"><font size="3">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</font></a><br>
-     <font size="3">Banerjee, T., Gang, B., & He, J.</font><br/>   
-</li>
- <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma, P., & Banerjee, T. </font><br/>
      <font size="3"><a href="https://idloom.events/files/events/11968/files/1clzmhwujztczuoa.pdf" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
@@ -28,6 +24,10 @@ author_profile: true
   <h3>Publications (*corresponding author)</h3>
   </section>
   <ol reversed>
+   <li>
+     <font size="3">Banerjee, T., Gang, B., & He, J. (2025) <a href="https://arxiv.org/abs/2308.11026" target="_blank">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</a><br>
+     <i>forthcoming at Biometrika.</i> [<a href="https://arxiv.org/abs/2308.11026" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/IRT" target="_blank">Code</a></font>]<br>  
+</li>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2025). <a href="https://doi.org/10.1093/biomet/asaf007" target="_blank">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</a><br>
      <i>Biometrika, Volume 112, Issue 2, asaf007.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
@@ -45,7 +45,7 @@ author_profile: true
  target="_blank">Code</a></font>]<br/>
  </li>
    <li>
-    <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
+    <font size="3">Banerjee, T., Bhattacharya, B. B., & Mukherjee, G. (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2374583" target="_blank">Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity.</a><br>
      <i>Journal of Computational and Graphical Statistics, 34(1), 306–317.</i> [<a href="https://trambakbanerjee.github.io/utils/BEC_paper.pdf" target="_blank">PDF</a>, <a href="https://trambakbanerjee.github.io/utils/BEC_code.zip" target="_blank">Code</a></font>]<br/>
 </li>
     <li>
