@@ -10,6 +10,11 @@ author_profile: true
 </section>
 <ol>
  <li>
+     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Assessing Replicability across Dependent
+Studies: A Partial Conjunction Testing Framework with Application to Multi-Study GWAS.</font></a><br>
+     <font size="3">Dey, M., Banerjee, T., Bhuyan, P., & Majumdar, M. </font><br/>
+ </li>
+ <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
      <font size="3">Sharma, P., & Banerjee, T. </font><br/>
      <font size="3"><a href="https://idloom.events/files/events/11968/files/1clzmhwujztczuoa.pdf" style="color:#F59B00" target="_blank">2023 NBER-NSF Seminar on Bayesian Inference in Econometrics and Statistics.</a></font><br/>
