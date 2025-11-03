@@ -10,7 +10,7 @@ author_profile: true
 </section>
 <ol>
  <li>
-     <a href="https://arxiv.org/pdf/2002.12586.pdf" target="_blank"><font size="3">Assessing Replicability across Dependent
+     <a href="https://www.dropbox.com/scl/fi/mnlgtmgc47rlxn6dgjnvp/efilter_deyetal25.pdf?rlkey=zb5p3fk6284udc9zyiry6sbez&st=2242akhf&dl=0" target="_blank"><font size="3">Assessing Replicability across Dependent
 Studies: A Partial Conjunction Testing Framework with Application to Multi-Study GWAS.</font></a><br>
      <font size="3">Dey, M., Banerjee, T., Bhuyan, P., & Majumdar, M. </font><br/>
  </li>
