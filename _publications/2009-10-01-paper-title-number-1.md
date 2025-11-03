@@ -12,7 +12,7 @@ author_profile: true
  <li>
      <a href="https://www.dropbox.com/scl/fi/mnlgtmgc47rlxn6dgjnvp/efilter_deyetal25.pdf?rlkey=zb5p3fk6284udc9zyiry6sbez&st=2242akhf&dl=0" target="_blank"><font size="3">Assessing Replicability across Dependent
 Studies: A Partial Conjunction Testing Framework with Application to Multi-Study GWAS.</font></a><br>
-     <font size="3">Dey, M., Banerjee, T., Bhuyan, P., & Majumdar, M. </font><br/>
+     <font size="3">Dey, M., Banerjee, T., Bhuyan, P., & Majumdar, A. </font><br/>
  </li>
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
