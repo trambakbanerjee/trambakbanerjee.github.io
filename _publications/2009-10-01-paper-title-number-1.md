@@ -10,7 +10,7 @@ author_profile: true
 </section>
 <ol>
  <li>
-     <a href="https://trambakbanerjee.github.io/publications/#preprints" target="_blank"><font size="3">Assessing Replicability Across Dependent Studies: A Framework for Testing Partial Conjunction Hypotheses with Application to GWAS.</font></a><br>
+     <a href="https://arxiv.org/pdf/2511.04130" target="_blank"><font size="3">Assessing Replicability Across Dependent Studies: A Framework for Testing Partial Conjunction Hypotheses with Application to GWAS.</font></a><br>
      <font size="3">Dey, M., Banerjee, T., Bhuyan, P., & Majumdar, A. </font><br/>
  </li>
  <li>
