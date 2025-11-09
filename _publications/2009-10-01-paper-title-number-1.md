@@ -5,29 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 <style>
-/* Accent vertical bar for section headers (like Nignatiadis) */
+/* Vertical accent bars for section headings */
 .page__content h3 {
   position: relative;
-  padding-left: 0.75rem;
+  padding-left: 12px;
   margin-top: 2rem;
-  font-family: "Lora", serif; /* optional match to your new typography */
 }
 
 .page__content h3::before {
   content: "";
   position: absolute;
   left: 0;
-  top: 0.25em;
-  width: 4px;          /* bar thickness */
-  height: 0.9em;       /* bar height relative to text */
-  background: #2779F6; /* SAME blue we set for links */
-  border-radius: 2px;
+  top: 0.35em;
+  width: 6px;               /* thickness of bar */
+  height: 1.05em;           /* height matches text */
+  background: #2779F6;      /* same blue you are already using */
+  border-radius: 3px;       /* slightly rounded edges */
 }
- .page__content h3::before {
-  height: 1.1em;
-  background: linear-gradient(180deg, #2779F6, #0B4C9C);
-}
-
 </style>
 
 <font size="3">On this page I have organized my research into the following three categories: <a href="https://trambakbanerjee.github.io/publications/#preprints">Working papers</a>, <a href="https://trambakbanerjee.github.io/publications/#pubs">Publications</a> and <a href="https://trambakbanerjee.github.io/publications/#discussions">Invited Discussions</a>.</font> 
