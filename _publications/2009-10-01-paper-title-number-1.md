@@ -4,6 +4,32 @@ title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+/* Accent vertical bar for section headers (like Nignatiadis) */
+.page__content h3 {
+  position: relative;
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+  font-family: "Lora", serif; /* optional match to your new typography */
+}
+
+.page__content h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.25em;
+  width: 4px;          /* bar thickness */
+  height: 0.9em;       /* bar height relative to text */
+  background: #2779F6; /* SAME blue we set for links */
+  border-radius: 2px;
+}
+ .page__content h3::before {
+  height: 1.1em;
+  background: linear-gradient(180deg, #2779F6, #0B4C9C);
+}
+
+</style>
+
 <font size="3">On this page I have organized my research into the following three categories: <a href="https://trambakbanerjee.github.io/publications/#preprints">Working papers</a>, <a href="https://trambakbanerjee.github.io/publications/#pubs">Publications</a> and <a href="https://trambakbanerjee.github.io/publications/#discussions">Invited Discussions</a>.</font> 
 <section id="preprints">
 <h3>Working papers</h3>
