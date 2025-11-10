@@ -49,8 +49,8 @@ author_profile: true
   </section>
   <ol reversed>
    <li>
-     <font size="3">Banerjee, T., Gang, B., & He, J. (2025) <a href="https://arxiv.org/abs/2308.11026" target="_blank">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</a><br>
-     <i>forthcoming at Biometrika.</i> [<a href="https://arxiv.org/abs/2308.11026" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/IRT" target="_blank">Code</a></font>]<br>  
+     <font size="3">Banerjee, T., Gang, B., & He, J. (2025) <a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf080/8317438?redirectedFrom=fulltext" target="_blank">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</a><br>
+     <i>Biometrika asaf080.</i> [<a href="https://arxiv.org/abs/2308.11026" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/IRT" target="_blank">Code</a></font>]<br>  
 </li>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2025). <a href="https://doi.org/10.1093/biomet/asaf007" target="_blank">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</a><br>
