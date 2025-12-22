@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: Non-academic stuff
 permalink: /nonacademic/
+author_profile: true
 ---
 
 ## Books
