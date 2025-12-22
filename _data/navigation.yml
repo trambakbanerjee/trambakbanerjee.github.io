@@ -20,6 +20,10 @@ main:
   
   - title: "Useful Links"
     url: /links/
+
+  - title: "Non-academic stuff"
+    url: /non-academic/
+
   #- title: "CV"
   #  url: /cv/
     
