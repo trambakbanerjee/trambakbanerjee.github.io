@@ -193,6 +193,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  nonacademic:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
