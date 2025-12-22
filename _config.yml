@@ -254,6 +254,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _nonacademic
+  - scope:
+      path: ""
+      type: nonacademic
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
