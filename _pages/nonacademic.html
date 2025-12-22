@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Non-academic stuff"
+permalink: /nonacademic/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.nonacademic reversed %}
+  {% include archive-single.html %}
+{% endfor %}
