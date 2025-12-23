@@ -30,7 +30,7 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 
 ## Travel
 
-A few moments from places I’ve traveled to over the years, mostly pre-2015 . This is a small preview and more photographs are available on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">my 500px profile</a>.
+A few moments from places I’ve traveled to over the years. This is a small preview and more photographs are available on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">my 500px profile</a>.
   <div style="display:flex;
               justify-content:center;
               gap:16px;
