@@ -26,5 +26,13 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
       where ambiguity deepens rather than resolves.
     </p>
   </div>
-
 </div>
+
+## Travel
+
+<div id="travel-photos" class="travel-gallery">
+  <p>Loading photos…</p>
+</div>
+
+<script src="/assets/js/500px-travel.js"></script>
+
