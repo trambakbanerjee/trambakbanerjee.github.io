@@ -50,6 +50,4 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
     View more travel photos on <strong>500px →</strong>
   </p>
 
-</a>
-
-
+  </a>
