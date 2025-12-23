@@ -1,0 +1,14 @@
+.travel-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.travel-gallery img {
+  width: 22%;
+  max-width: 220px;
+  border-radius: 6px;
+  object-fit: cover;
+}
