@@ -45,7 +45,7 @@ A few moments from places I’ve traveled to over the years. This is a small pre
     <img src="{{ '/images/travel/travel2.jpg' | relative_url }}"
          style="width:100%;border-radius:6px;">
     <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
-      Jaiselmer, Indian (2010)
+      Jaisalmer, Indian (2010)
     </figcaption>
   </figure>
 
