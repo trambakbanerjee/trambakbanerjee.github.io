@@ -39,10 +39,10 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
               flex-wrap:wrap;
               margin-top:12px;">
 
-    <img src="/assets/images/travel/travel1.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/assets/images/travel/travel2.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/assets/images/travel/travel3.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/assets/images/travel/travel4.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
+    <img src="/images/travel/travel1.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
+    <img src="/images/travel/travel2.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
+    <img src="/images/travel/travel3.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
+    <img src="/images/travel/travel4.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
 
   </div>
 
