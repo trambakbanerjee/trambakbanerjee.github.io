@@ -29,10 +29,8 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 </div>
 
 ## Travel
-<a href="https://500px.com/p/trambakbanerjee?view=photos"
-   target="_blank"
-   style="text-decoration:none;">
 
+A few moments from places I’ve traveled to over the years, mostly pre-2015 . This is a small preview and more photographs are available on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">my 500px profile</a>.
   <div style="display:flex;
               justify-content:center;
               gap:16px;
@@ -45,9 +43,4 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
     <img src="/images/travel/travel4.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
 
   </div>
-
-  <p style="text-align:center;margin-top:10px;font-size:0.9em;">
-    View more travel photos on <strong>500px →</strong>
-  </p>
-
-  </a>
+  
