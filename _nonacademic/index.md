@@ -68,8 +68,3 @@ A few moments from places I’ve traveled to over the years. This is a small pre
   </figure>
 
 </div>
-
-<p style="text-align:center;font-size:0.85em;margin-top:10px;">
-  Full portfolio on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">500px →</a>
-</p>
-
