@@ -1,6 +1,6 @@
 (async function () {
   const container = document.getElementById("travel-photos");
-  const rssUrl = "https://500px.com/p/trambakbanerjee/rss";
+  const rssUrl = "https://500px.com/trambakbanerjee/rss";
   const proxy = "https://api.allorigins.win/get?url=";
 
   try {
@@ -14,14 +14,19 @@
     // Extract image URLs
     const images = items
       .map(item => {
-        const content = item.querySelector("media\\:content, content");
-        return content ? content.getAttribute("url") : null;
-      })
-      .filter(Boolean);
+        const content = item.querySelector("media\\:content");
+        if (media?.getAttribute("url")) return media.getAttribute("url");
 
-    // Randomly sample 3 images
+        const enc = item.querySelector("enclosure");
+        if (enc?.getAttribute("url")) return enc.getAttribute("url");
+
+        return null;
+  })
+  .filter(Boolean);
+
+    // Randomly sample 4 images
     const shuffled = images.sort(() => 0.5 - Math.random());
-    const selected = shuffled.slice(0, 3);
+    const selected = shuffled.slice(0, 4);
 
     container.innerHTML = selected
       .map(src => `
