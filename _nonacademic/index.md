@@ -29,10 +29,7 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 </div>
 
 ## Travel
-
-<div id="travel-photos" class="travel-gallery">
-  <p>Loading photos…</p>
-</div>
+{% include travel-500px.html %}
 
 <script src="/assets/js/500px-travel.js"></script>
 
