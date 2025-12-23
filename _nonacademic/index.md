@@ -31,5 +31,3 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 ## Travel
 {% include travel-500px.html %}
 
-<script src="/assets/js/500px-travel.js"></script>
-
