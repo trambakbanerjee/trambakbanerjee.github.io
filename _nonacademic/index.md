@@ -31,8 +31,6 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 ## Travel
 
 A few moments from places I’ve traveled to over the years. This is a small preview and more photographs are available on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">my 500px profile</a>.
-## Travel
-
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:12px;">
 
   <figure style="width:22%;max-width:220px;text-align:center;">
