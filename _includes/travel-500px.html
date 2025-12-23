@@ -1,0 +1,57 @@
+<div id="travel-photos" class="travel-gallery">
+  <p>Loading photos…</p>
+</div>
+
+<style>
+  .travel-gallery { display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin-top:12px; }
+  .travel-gallery img { width:22%; max-width:220px; border-radius:6px; object-fit:cover; }
+</style>
+
+<script>
+(async function () {
+  const container = document.getElementById("travel-photos");
+  if (!container) return;
+
+  const rssUrl = "https://500px.com/trambakbanerjee/rss";
+
+  // AllOrigins exists specifically to bypass CORS for client-side fetches. :contentReference[oaicite:1]{index=1}
+  const proxy = "https://api.allorigins.win/raw?url=";
+
+  try {
+    const xmlText = await fetch(proxy + encodeURIComponent(rssUrl), { cache: "no-store" }).then(r => r.text());
+
+    const xml = new DOMParser().parseFromString(xmlText, "text/xml");
+    const items = Array.from(xml.querySelectorAll("item"));
+
+    // Pull images from (1) enclosure, (2) media:content, (3) <img> in description (fallback)
+    const imgs = items.map(item => {
+      const enc = item.querySelector("enclosure");
+      if (enc?.getAttribute("url")) return enc.getAttribute("url");
+
+      const media = item.querySelector("media\\:content");
+      if (media?.getAttribute("url")) return media.getAttribute("url");
+
+      const desc = item.querySelector("description")?.textContent || "";
+      const m = desc.match(/<img[^>]+src="([^"]+)"/i);
+      return m ? m[1] : null;
+    }).filter(Boolean);
+
+    if (imgs.length === 0) {
+      container.innerHTML = "<p>No photos found in the 500px feed.</p>";
+      return;
+    }
+
+    // random sample of 4
+    const shuffled = imgs.sort(() => 0.5 - Math.random());
+    const selected = shuffled.slice(0, 4);
+
+    container.innerHTML = selected.map(src =>
+      `<img src="${src}" alt="Travel photo" loading="lazy">`
+    ).join("");
+
+  } catch (e) {
+    container.innerHTML = "<p>Unable to load photos.</p>";
+    console.error("500px travel feed error:", e);
+  }
+})();
+</script>
