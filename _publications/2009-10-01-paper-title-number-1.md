@@ -29,10 +29,10 @@ author_profile: true
 <h3>Working papers  (*corresponding author)</h3>
 </section>
 <ol>
- <!-- <li>
-     <a href="https://arxiv.org/pdf/2511.04130" target="_blank"><font size="3">BLOC: A Global Optimization Framework for Sparse Covariance Estimation with Non-Convex Penalties.</font></a><br>
+ <li>
+     <a href="https://github.com/priyamdas2/BLOC" target="_blank"><font size="3">BLOC: A Global Optimization Framework for Sparse Covariance Estimation with Non-Convex Penalties.</font></a><br>
      <font size="3">Das, P., Banerjee, T*., & Bhuyan, P.</font><br/>
- </li> -->
+ </li>
   <li>
      <a href="https://arxiv.org/pdf/2511.04130" target="_blank"><font size="3">Assessing Replicability Across Dependent Studies: A Framework for Testing Partial Conjunction Hypotheses with Application to GWAS.</font></a><br>
      <font size="3">Dey, M., Banerjee, T*., Bhuyan, P., & Majumdar, A. </font><br/>
