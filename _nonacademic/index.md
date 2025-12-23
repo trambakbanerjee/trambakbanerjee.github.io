@@ -31,16 +31,45 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
 ## Travel
 
 A few moments from places I’ve traveled to over the years. This is a small preview and more photographs are available on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">my 500px profile</a>.
-  <div style="display:flex;
-              justify-content:center;
-              gap:16px;
-              flex-wrap:wrap;
-              margin-top:12px;">
+## Travel
 
-    <img src="/images/travel/travel1.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/images/travel/travel2.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/images/travel/travel3.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
-    <img src="/images/travel/travel4.jpg" style="width:22%;max-width:220px;border-radius:6px;" />
+<div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:12px;">
 
-  </div>
-  
+  <figure style="width:22%;max-width:220px;text-align:center;">
+    <img src="{{ '/images/travel/travel1.jpg' | relative_url }}"
+         style="width:100%;border-radius:6px;">
+    <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
+      Hampi, India (2010)
+    </figcaption>
+  </figure>
+
+  <figure style="width:22%;max-width:220px;text-align:center;">
+    <img src="{{ '/images/travel/travel2.jpg' | relative_url }}"
+         style="width:100%;border-radius:6px;">
+    <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
+      Jaiselmer, Indian (2010)
+    </figcaption>
+  </figure>
+
+  <figure style="width:22%;max-width:220px;text-align:center;">
+    <img src="{{ '/images/travel/travel3.jpg' | relative_url }}"
+         style="width:100%;border-radius:6px;">
+    <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
+      Hampi, India (2010)
+    </figcaption>
+  </figure>
+
+  <figure style="width:22%;max-width:220px;text-align:center;">
+    <img src="{{ '/images/travel/travel4.jpg' | relative_url }}"
+         style="width:100%;border-radius:6px;">
+    <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
+      Lago Hunacota, Bolivia (2012)
+    </figcaption>
+  </figure>
+
+</div>
+
+<p style="text-align:center;font-size:0.85em;margin-top:10px;">
+  Full portfolio on <a href="https://500px.com/p/trambakbanerjee?view=photos" target="_blank">500px →</a>
+</p>
+
