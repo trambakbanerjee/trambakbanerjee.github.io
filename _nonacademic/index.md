@@ -34,10 +34,10 @@ A few moments from places I’ve traveled to over the years. This is a small pre
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:12px;">
 
   <figure style="width:22%;max-width:220px;text-align:center;">
-    <img src="{{ '/images/travel/travel1.jpg' | relative_url }}"
+    <img src="{{ '/images/travel/Atacama-Chile.jpg' | relative_url }}"
          style="width:100%;border-radius:6px;">
     <figcaption style="font-size:0.8em;color:#555;margin-top:6px;">
-      Hampi, India (2010)
+      Atacama, Chile (2013)
     </figcaption>
   </figure>
 
