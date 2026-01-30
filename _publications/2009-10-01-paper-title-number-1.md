@@ -30,13 +30,13 @@ author_profile: true
 </section>
 <ol>
  <li>
-     <a href="https://github.com/priyamdas2/BLOC" target="_blank"><font size="3">BLOC: A Global Optimization Framework for Sparse Covariance Estimation with Non-Convex Penalties.</font></a><br>
+     <a href="https://github.com/priyamdas2/BLOC" target="_blank"><font size="3">Sparse Covariance Estimation under General Nonconvex Penalties.</font></a><br>
      <font size="3">Das, P., Banerjee, T*., & Bhuyan, P.</font><br/>
  </li>
   <li>
-     <a href="https://arxiv.org/pdf/2511.04130v2" target="_blank"><font size="3">Multiple Testing of Partial Conjunction Hypotheses for Assessing Replicability Across Dependent Studies.</font></a><br>
+     <a href="https://arxiv.org/pdf/2511.04130v1" target="_blank"><font size="3">Assessing Replicability Across Dependent Studies: A Framework for Testing Partial Conjunction Hypotheses with Application to Multiple GWAS.</font></a><br>
      <font size="3">Dey, M., Banerjee, T*., Bhuyan, P., & Majumdar, A. </font><br/>
-    <font size="3">Earlier title: <a href="https://arxiv.org/pdf/2511.04130v1" target="_blank">Assessing Replicability Across Dependent Studies: A Framework for Testing Partial Conjunction Hypotheses with Application to GWAS.</a></font><br/>
+    <font size="3">Earlier title: <a href="https://arxiv.org/pdf/2511.04130v2" target="_blank">Multiple Testing of Partial Conjunction Hypotheses for Assessing Replicability Across Dependent Studies.</a></font><br/>
  </li>
  <li>
      <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank"><font size="3">Risk-Shifting, Regulation, and Government Assistance.</font></a><br>
