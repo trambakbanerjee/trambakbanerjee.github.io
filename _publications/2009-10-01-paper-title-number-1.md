@@ -55,15 +55,15 @@ author_profile: true
   <ol reversed>
    <li>
      <font size="3">Banerjee, T., Gang, B., & He, J. (2026) <a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf080/8317438?redirectedFrom=fulltext" target="_blank">Harnessing The Collective Wisdom: Fusion Learning Using Decision Sequences From Diverse Sources.</a><br>
-     <i>Biometrika, 113(1), p.asaf080.</i> [<a href="https://arxiv.org/abs/2308.11026" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/IRT" target="_blank">Code</a></font>]<br>  
+     <i>Biometrika, Volume 113, Issue 1, p.asaf080.</i> [<a href="https://arxiv.org/abs/2308.11026" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/IRT" target="_blank">Code</a></font>]<br>  
+</li>
+   <li>
+   <font size="3">Sharma, P., & Banerjee, T*. (2026).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
+    <i>Journal of the Royal Statistical Society Series A: Statistics in Society, 189(1), pp.330-358.</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
    <li>
     <font size="3">Gang, B., & Banerjee, T*. (2025). <a href="https://doi.org/10.1093/biomet/asaf007" target="_blank">Large-Scale Multiple Testing of Composite Null Hypotheses Under Heteroskedasticity.</a><br>
      <i>Biometrika, Volume 112, Issue 2, asaf007.</i> [<a href="https://arxiv.org/abs/2306.07362" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/HAMT_paper" target="_blank">Code</a></font>]<br>
-</li>
-   <li>
-   <font size="3">Sharma, P., & Banerjee, T*. (2025).  <a href="https://doi.org/10.1093/jrsssa/qnae150" target="_blank">Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises.</a> <br>
-    <i>Journal of the Royal Statistical Society: Series A, qnae150</i> [<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank">PDF</a>, <a href="https://github.com/trambakbanerjee/latent_class_bank_resolution" target="_blank">Code</a></font>]<br/>
 </li>
  <li>
   <font size="3">Banerjee, T*., & Sharma, P. (2025). <a href="https://link.springer.com/article/10.1007/s11222-025-10686-8" target="_blank">Nonparametric Empirical Bayes Prediction in Mixed Models.</a><br>
