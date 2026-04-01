@@ -30,7 +30,7 @@ author_profile: true
 </section>
 <ol>
  <li>
-     <a href="https://github.com/priyamdas2/BLOC" target="_blank"><font size="3">Sparse Covariance Estimation under General Nonconvex Penalties.</font></a><br>
+     <a href="https://arxiv.org/abs/2603.29169" target="_blank"><font size="3">BLOC: A Global Optimization Framework for Sparse Covariance Estimation with Non-Convex Penalties.</font></a><br>
      <font size="3">Das, P., Banerjee, T*., & Bhuyan, P.</font><br/>
  </li>
   <li>
