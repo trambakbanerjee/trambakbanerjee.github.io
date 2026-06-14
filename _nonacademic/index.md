@@ -20,10 +20,9 @@ Outside of research, I enjoy reading fiction / non-fiction that are deliberately
   </div>
 
   <div class="book-item">
-   <p class="book-title"><a href="https://www.goodreads.com/book/show/10357575" target="_blank">1Q84, Book 2 by Haruki Murakami</a></p>
+   <p class="book-title"><a href="https://www.goodreads.com/book/show/12335194-the-importance-of-being-ernest" target="_blank">The Importance of Being Ernest by Oscar Wilde</a></p>
     <p class="book-text">
-      A slow and immersive continuation of Murakami’s parallel world,
-      where ambiguity deepens rather than resolves.
+      A classic, funny play by Oscar Wilde.
     </p>
   </div>
 </div>
