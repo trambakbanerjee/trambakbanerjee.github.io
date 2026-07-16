@@ -17,7 +17,7 @@ author_profile: true
    </li>
    <li>
       <h3>BSAN 934: Applied Bayesian Statistics (Ph.D. elective) - Spring 2026</h3>
-        <p>This course introduces modern Bayesian methods for data analysis, emphasizing practical applications alongside rigorous foundations. I mainly focus on an applied treatment of classical sampling methods, such as Gibbs sampling and Metropolis–Hastings, and interpretaion of MCMC diagnostics. Boradly, the topics include Bayesian regression, hierarchical and multilevel models, model comparison, and an introduction to nonparametric Bayes. Applications are drawn from economics and business, with hands-on implementation in R / Stan. A book that is particularly relevant for this class is <a href="https://pdhoff.github.io/book/" target="_blank">A First Course in Bayesian Statistical Methods by Peter Hoff</a>.</p> 
+        <p>This course introduces modern Bayesian methods for data analysis, emphasizing practical applications alongside rigorous foundations. I mainly focus on an applied treatment of classical sampling methods, such as Gibbs sampling and Metropolis–Hastings, and interpretaion of MCMC diagnostics. Broadly, the topics include Bayesian regression, hierarchical and multilevel models, model comparison, and an introduction to nonparametric Bayes. Applications are drawn from economics and business, with hands-on implementation in R / Stan. A book that is particularly relevant for this class is <a href="https://pdhoff.github.io/book/" target="_blank">A First Course in Bayesian Statistical Methods by Peter Hoff</a>.</p> 
    </li>
 </ol>
 
