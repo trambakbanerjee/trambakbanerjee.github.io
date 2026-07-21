@@ -30,6 +30,10 @@ author_profile: true
 </section>
 <ol>
  <li>
+     <a href="https://trambakbanerjee.github.io/publications/"><font size="3">UNIQUE: Univariate-Guided Sparse Noncrossing Quantile Regression for Characterizing Cognitive Heterogeneity in Parkinson’s Disease.</font></a><br>
+     <font size="3">Das, P., Banerjee, T*., Ahsan, M., Le, Q., Barett, M. & Mukhopadhyay, M.</font><br/>
+ </li>
+ <li>
      <a href="https://arxiv.org/abs/2603.29169" target="_blank"><font size="3">BLOC: A Global Optimization Framework for Sparse Covariance Estimation with Non-Convex Penalties.</font></a><br>
      <font size="3">Das, P., Banerjee, T*., & Bhuyan, P.</font><br/>
  </li>
