@@ -18,8 +18,8 @@ main:
   - title: "Software"
     url: /softwares/
   
-  - title: "Useful Links"
-    url: /links/
+  #- title: "Useful Links"
+  #  url: /links/
 
   - title: "Non-academic stuff"
     url: /nonacademic/
