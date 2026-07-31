@@ -85,3 +85,12 @@
 .page__content li {
   margin-bottom: 0.35em;
 }
+
+.page__content a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(70, 70, 70, 0.3);
+}
+
+.page__content a:hover {
+  border-bottom-color: currentColor;
+}
