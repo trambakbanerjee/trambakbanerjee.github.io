@@ -40,3 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "custom";
+
+@media (min-width: 64em) {
+  .sidebar {
+    border-right: 1px solid #d8d5cf;
+    padding-right: 2rem;
+  }
+
+  .page,
+  .archive {
+    padding-left: 2rem;
+  }
+}
