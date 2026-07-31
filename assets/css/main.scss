@@ -61,3 +61,15 @@
 .page__footer {
   border-top: none;
 }
+
+.page__title,
+.archive__subtitle {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.page__title {
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #d8d5cf;
+  margin-bottom: 1.5rem;
+}
